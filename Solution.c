@@ -1220,7 +1220,7 @@ int main() {
     process_image("./IMAGES/8x8.png", "./FFT/8x8.png", "./EDGES/8x8.png", 2.0f, 0.15f);
     process_image("./IMAGES/8x8-2.png", "./FFT/8x8-2.png", "./EDGES/8x8-2.png", 2.0f, 0.15f);
     process_image("./IMAGES/16x16.png", "./FFT/16x16.png", "./EDGES/16x16.png", 2.0f, 0.15f);
-    process_image("./IMAGES/OIP.png", "./FFT/OIP.png", "./EDGES/OIP.png", 2.0f, 0.15f);
+    process_image("./IMAGES/OIP.png", "./FFT/OIP.png", "./EDGES/OIP.png", 100.0f, 0.20f);
     process_image("./IMAGES/R.png", "./FFT/R.png", "./EDGES/R.png", 2.0f, 0.15f);
 
     return 0;
